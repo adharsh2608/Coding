@@ -8,9 +8,9 @@ class Solution {
         {
             arr[k]="";
         }
-        int j=0;
         if(rows==1)
             return a;
+        int j=0;
         while(i<a.length())
         {
             if(flag)
