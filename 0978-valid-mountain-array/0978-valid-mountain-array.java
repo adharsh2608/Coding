@@ -22,12 +22,7 @@ class Solution {
 				}
 			}
 
-			for (int i : arr) {
-				if (i < 0 || i > Math.pow(10, 4)) {
-					flag = false;
-					break;
-				}
-			}
+			
 		}
 
 		return flag;
