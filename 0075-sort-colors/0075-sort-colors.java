@@ -1,26 +1,29 @@
 class Solution {
     public void sortColors(int[] nums) {
-        int len=nums.length;
-        String a="";
-        String b="";
-        String c="";
-        for(int i=0;i<len;i++)
+        if(nums.length==0||nums.length==1)
+        return;
+        int index=0;
+        int start=0;
+        int end=nums.length-1;
+        while(index<=end &&start<end)
         {
-            if(nums[i]==0)
-                a=nums[i]+" "+a;
-            else if(nums[i]==1)
-                b=nums[i]+" "+b;
-            else if(nums[i]==2)
-                c=nums[i]+" "+c;
+            if(nums[index]==0)
+            {
+            nums[index]=nums[start];
+            nums[start]=0;
+            start++;
+            index++;
+            }
+            else if(nums[index]==2)
+            {
+                nums[index]=nums[end];
+                nums[end]=2;
+                end--;
+            }
+            else
+            index++;
         }
-        String d=a+b+c;
-        String[] string = d.split(" ");
         
-        for (int i = 0; i<string.length;i++) {
-            nums[i] = Integer.valueOf(string[i]);
-        }
-        
-        System.out.println("["+d+"]");
         
     }
 }
