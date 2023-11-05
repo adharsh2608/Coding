@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Arrays;
 class Solution {
     public int kthFactor(int n, int k) {
         ArrayList<Integer> arr=new ArrayList<>();
