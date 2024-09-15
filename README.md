@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2383-add-two-integers](https://github.com/adharsh2608/Coding/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/adharsh2608/Coding/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/adharsh2608/Coding/tree/master/2556-convert-the-temperature) |
+| [2752-sum-multiples](https://github.com/adharsh2608/Coding/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/adharsh2608/Coding/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/adharsh2608/Coding/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
