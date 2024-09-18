@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/adharsh2608/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1635-number-of-good-pairs](https://github.com/adharsh2608/Coding/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adharsh2608/Coding/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/adharsh2608/Coding/tree/master/1791-richest-customer-wealth) |
@@ -59,4 +60,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/adharsh2608/Coding/tree/master/2491-smallest-even-multiple) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/adharsh2608/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
