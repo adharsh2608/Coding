@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1944-truncate-sentence](https://github.com/adharsh2608/Coding/tree/master/1944-truncate-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/adharsh2608/Coding/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/adharsh2608/Coding/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/adharsh2608/Coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/adharsh2608/Coding/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/adharsh2608/Coding/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/adharsh2608/Coding/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1635-number-of-good-pairs](https://github.com/adharsh2608/Coding/tree/master/1635-number-of-good-pairs) |
 | [1694-make-sum-divisible-by-p](https://github.com/adharsh2608/Coding/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adharsh2608/Coding/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/adharsh2608/Coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Counting
 |  |
 | ------- |
@@ -84,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/adharsh2608/Coding/tree/master/1256-rank-transform-of-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/adharsh2608/Coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -94,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0567-permutation-in-string](https://github.com/adharsh2608/Coding/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/adharsh2608/Coding/tree/master/1923-sentence-similarity-iii) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/adharsh2608/Coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sliding Window
 |  |
 | ------- |
