@@ -40,11 +40,13 @@ Collection of LeetCode questions to ace the coding interview!
 | [1944-truncate-sentence](https://github.com/adharsh2608/Coding/tree/master/1944-truncate-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/adharsh2608/Coding/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/adharsh2608/Coding/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/adharsh2608/Coding/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3194-find-words-containing-character](https://github.com/adharsh2608/Coding/tree/master/3194-find-words-containing-character) |
 ## Simulation
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/adharsh2608/Coding/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/adharsh2608/Coding/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,4 +95,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/adharsh2608/Coding/tree/master/0567-permutation-in-string) |
+## Stack
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/adharsh2608/Coding/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
