@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/adharsh2608/Coding/tree/master/0268-missing-number) |
+| [1610-xor-operation-in-an-array](https://github.com/adharsh2608/Coding/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/adharsh2608/Coding/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/adharsh2608/Coding/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/adharsh2608/Coding/tree/master/2491-smallest-even-multiple) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/adharsh2608/Coding/tree/master/0268-missing-number) |
+| [1610-xor-operation-in-an-array](https://github.com/adharsh2608/Coding/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adharsh2608/Coding/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Number Theory
 |  |
