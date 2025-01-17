@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adharsh2608/Coding/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adharsh2608/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/adharsh2608/Coding/tree/master/0268-missing-number) |
 | [1256-rank-transform-of-an-array](https://github.com/adharsh2608/Coding/tree/master/1256-rank-transform-of-an-array) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adharsh2608/Coding/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/adharsh2608/Coding/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/adharsh2608/Coding/tree/master/0567-permutation-in-string) |
 | [1256-rank-transform-of-an-array](https://github.com/adharsh2608/Coding/tree/master/1256-rank-transform-of-an-array) |
