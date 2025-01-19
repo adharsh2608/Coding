@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adharsh2608/Coding/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/adharsh2608/Coding/tree/master/0036-valid-sudoku) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adharsh2608/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/adharsh2608/Coding/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/adharsh2608/Coding/tree/master/0268-missing-number) |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adharsh2608/Coding/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/adharsh2608/Coding/tree/master/0036-valid-sudoku) |
 | [0268-missing-number](https://github.com/adharsh2608/Coding/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/adharsh2608/Coding/tree/master/0567-permutation-in-string) |
 | [1256-rank-transform-of-an-array](https://github.com/adharsh2608/Coding/tree/master/1256-rank-transform-of-an-array) |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/adharsh2608/Coding/tree/master/0036-valid-sudoku) |
 | [1791-richest-customer-wealth](https://github.com/adharsh2608/Coding/tree/master/1791-richest-customer-wealth) |
 ## Bit Manipulation
 |  |
