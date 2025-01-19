@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/adharsh2608/Coding/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adharsh2608/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0238-product-of-array-except-self](https://github.com/adharsh2608/Coding/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/adharsh2608/Coding/tree/master/0268-missing-number) |
 | [1256-rank-transform-of-an-array](https://github.com/adharsh2608/Coding/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/adharsh2608/Coding/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/adharsh2608/Coding/tree/master/0238-product-of-array-except-self) |
 | [1694-make-sum-divisible-by-p](https://github.com/adharsh2608/Coding/tree/master/1694-make-sum-divisible-by-p) |
 | [2714-left-and-right-sum-differences](https://github.com/adharsh2608/Coding/tree/master/2714-left-and-right-sum-differences) |
 ## Two Pointers
