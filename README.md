@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/adharsh2608/Coding/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/adharsh2608/Coding/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/adharsh2608/Coding/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/adharsh2608/Coding/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adharsh2608/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/adharsh2608/Coding/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adharsh2608/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/adharsh2608/Coding/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adharsh2608/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/adharsh2608/Coding/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/adharsh2608/Coding/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/adharsh2608/Coding/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/adharsh2608/Coding/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adharsh2608/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/adharsh2608/Coding/tree/master/0567-permutation-in-string) |
@@ -130,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/adharsh2608/Coding/tree/master/0042-trapping-rain-water) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/adharsh2608/Coding/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Binary Search
 |  |
@@ -144,4 +148,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adharsh2608/Coding/tree/master/0011-container-with-most-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/adharsh2608/Coding/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
