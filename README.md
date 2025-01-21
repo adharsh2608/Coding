@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adharsh2608/Coding/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/adharsh2608/Coding/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/adharsh2608/Coding/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/adharsh2608/Coding/tree/master/0036-valid-sudoku) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adharsh2608/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/adharsh2608/Coding/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/adharsh2608/Coding/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/adharsh2608/Coding/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adharsh2608/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -138,4 +140,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/adharsh2608/Coding/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/adharsh2608/Coding/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
