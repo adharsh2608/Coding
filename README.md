@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adharsh2608/Coding/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/adharsh2608/Coding/tree/master/0155-min-stack) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/adharsh2608/Coding/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Binary Search
 |  |
@@ -158,4 +159,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/adharsh2608/Coding/tree/master/0181-employees-earning-more-than-their-managers) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/adharsh2608/Coding/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
