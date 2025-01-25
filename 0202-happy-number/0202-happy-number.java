@@ -1,38 +1,32 @@
 class Solution {
-    boolean flag=false;
     public boolean isHappy(int n) {
-        ArrayList<Integer> sums=new ArrayList<>();
-        checkTrue(n,sums);
-        return flag;
-
-    }
-    public void checkTrue(int n,ArrayList<Integer> sums)
-    {
-        if(n==1)
-        {
-            flag=true;
-            return;
-        }
-        else if(sums.contains(n))
-        {
-            flag=false;
-            return;
-
-        }
-        else
-        {
-            sums.add(n);
-        }
-        int temp=n;
-        int digit=0;
+        ArrayList<Integer> a= new ArrayList<Integer>();
+        int number=n;
         int sum=0;
-        while(temp!=0)
-        {
-            digit=temp%10;
-            sum+=digit*digit;
-            temp=temp/10;
+        boolean flag=false;
+        while(flag==false)
+        {   
+            while(number!=0)
+            {
+                int b=number%10;
+                sum+=b*b;
+                number=number/10;
+            }
+            number=sum;
+            if(sum==1)
+            {
+                return true;
+            }
+            
+            if(a.contains(sum))
+            {
+                flag=true;
+                return false;
+            }
+            a.add(sum);
+            sum=0;
         }
-        n=sum;
-        checkTrue(n,sums);
+        return false;
     }
+
 }
