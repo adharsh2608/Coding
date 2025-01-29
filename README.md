@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/adharsh2608/Coding/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/adharsh2608/Coding/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/adharsh2608/Coding/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/adharsh2608/Coding/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adharsh2608/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/adharsh2608/Coding/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/adharsh2608/Coding/tree/master/0567-permutation-in-string) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adharsh2608/Coding/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/adharsh2608/Coding/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/adharsh2608/Coding/tree/master/0155-min-stack) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/adharsh2608/Coding/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Binary Search
@@ -178,4 +180,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/adharsh2608/Coding/tree/master/0022-generate-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/adharsh2608/Coding/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/adharsh2608/Coding/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
