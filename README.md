@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/adharsh2608/Coding/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/adharsh2608/Coding/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/adharsh2608/Coding/tree/master/0042-trapping-rain-water) |
+| [0057-insert-interval](https://github.com/adharsh2608/Coding/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/adharsh2608/Coding/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/adharsh2608/Coding/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adharsh2608/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
