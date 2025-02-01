@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adharsh2608/Coding/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/adharsh2608/Coding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/adharsh2608/Coding/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/adharsh2608/Coding/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/adharsh2608/Coding/tree/master/0036-valid-sudoku) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/adharsh2608/Coding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adharsh2608/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/adharsh2608/Coding/tree/master/0268-missing-number) |
 | [0907-koko-eating-bananas](https://github.com/adharsh2608/Coding/tree/master/0907-koko-eating-bananas) |
@@ -191,4 +193,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/adharsh2608/Coding/tree/master/0143-reorder-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/adharsh2608/Coding/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
