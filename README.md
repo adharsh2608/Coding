@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/adharsh2608/Coding/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/adharsh2608/Coding/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/adharsh2608/Coding/tree/master/0268-missing-number) |
+| [0312-burst-balloons](https://github.com/adharsh2608/Coding/tree/master/0312-burst-balloons) |
 | [0792-binary-search](https://github.com/adharsh2608/Coding/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/adharsh2608/Coding/tree/master/0907-koko-eating-bananas) |
 | [1256-rank-transform-of-an-array](https://github.com/adharsh2608/Coding/tree/master/1256-rank-transform-of-an-array) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/adharsh2608/Coding/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/adharsh2608/Coding/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adharsh2608/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0312-burst-balloons](https://github.com/adharsh2608/Coding/tree/master/0312-burst-balloons) |
 ## Sorting
 |  |
 | ------- |
