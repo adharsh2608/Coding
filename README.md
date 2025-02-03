@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/adharsh2608/Coding/tree/master/0042-trapping-rain-water) |
 | [0057-insert-interval](https://github.com/adharsh2608/Coding/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/adharsh2608/Coding/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/adharsh2608/Coding/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/adharsh2608/Coding/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adharsh2608/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/adharsh2608/Coding/tree/master/0128-longest-consecutive-sequence) |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/adharsh2608/Coding/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/adharsh2608/Coding/tree/master/0074-search-a-2d-matrix) |
 | [1791-richest-customer-wealth](https://github.com/adharsh2608/Coding/tree/master/1791-richest-customer-wealth) |
 ## Bit Manipulation
 |  |
@@ -165,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adharsh2608/Coding/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/adharsh2608/Coding/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adharsh2608/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/adharsh2608/Coding/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/adharsh2608/Coding/tree/master/0792-binary-search) |
