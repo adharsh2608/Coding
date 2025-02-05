@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1786-count-the-number-of-consistent-strings](https://github.com/adharsh2608/Coding/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/adharsh2608/Coding/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/adharsh2608/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/adharsh2608/Coding/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/adharsh2608/Coding/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/adharsh2608/Coding/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1944-truncate-sentence](https://github.com/adharsh2608/Coding/tree/master/1944-truncate-sentence) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/adharsh2608/Coding/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/adharsh2608/Coding/tree/master/1023-time-based-key-value-store) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adharsh2608/Coding/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/adharsh2608/Coding/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/adharsh2608/Coding/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/adharsh2608/Coding/tree/master/1923-sentence-similarity-iii) |
 | [1944-truncate-sentence](https://github.com/adharsh2608/Coding/tree/master/1944-truncate-sentence) |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/adharsh2608/Coding/tree/master/0238-product-of-array-except-self) |
 | [1694-make-sum-divisible-by-p](https://github.com/adharsh2608/Coding/tree/master/1694-make-sum-divisible-by-p) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/adharsh2608/Coding/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2714-left-and-right-sum-differences](https://github.com/adharsh2608/Coding/tree/master/2714-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
