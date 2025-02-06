@@ -15,7 +15,7 @@ class Solution {
         int total = 0;
         for (int count : productCount.values()) {
             if (count >= 2) {
-                total += count * (count - 1) * 4; // Multiply by 4 to account for tuple ordering
+                total += count * (count - 1) * 4;
             }
         }
         
