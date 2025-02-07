@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/adharsh2608/Coding/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/adharsh2608/Coding/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/adharsh2608/Coding/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2887-sort-vowels-in-a-string](https://github.com/adharsh2608/Coding/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/adharsh2608/Coding/tree/master/3194-find-words-containing-character) |
 ## Simulation
 |  |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/adharsh2608/Coding/tree/master/0455-assign-cookies) |
 | [1256-rank-transform-of-an-array](https://github.com/adharsh2608/Coding/tree/master/1256-rank-transform-of-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/adharsh2608/Coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2887-sort-vowels-in-a-string](https://github.com/adharsh2608/Coding/tree/master/2887-sort-vowels-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
