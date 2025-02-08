@@ -218,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/adharsh2608/Coding/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0584-find-customer-referee](https://github.com/adharsh2608/Coding/tree/master/0584-find-customer-referee) |
 ## Design
 |  |
 | ------- |
