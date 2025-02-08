@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1694-make-sum-divisible-by-p](https://github.com/adharsh2608/Coding/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adharsh2608/Coding/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/adharsh2608/Coding/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2434-design-a-number-container-system](https://github.com/adharsh2608/Coding/tree/master/2434-design-a-number-container-system) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/adharsh2608/Coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/adharsh2608/Coding/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/adharsh2608/Coding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0155-min-stack](https://github.com/adharsh2608/Coding/tree/master/0155-min-stack) |
 | [1023-time-based-key-value-store](https://github.com/adharsh2608/Coding/tree/master/1023-time-based-key-value-store) |
+| [2434-design-a-number-container-system](https://github.com/adharsh2608/Coding/tree/master/2434-design-a-number-container-system) |
 ## Backtracking
 |  |
 | ------- |
@@ -254,4 +256,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/adharsh2608/Coding/tree/master/0226-invert-binary-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/adharsh2608/Coding/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/adharsh2608/Coding/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
