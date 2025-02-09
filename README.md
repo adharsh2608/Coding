@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1944-truncate-sentence](https://github.com/adharsh2608/Coding/tree/master/1944-truncate-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/adharsh2608/Coding/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/adharsh2608/Coding/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2448-count-number-of-bad-pairs](https://github.com/adharsh2608/Coding/tree/master/2448-count-number-of-bad-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/adharsh2608/Coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/adharsh2608/Coding/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/adharsh2608/Coding/tree/master/2714-left-and-right-sum-differences) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1610-xor-operation-in-an-array](https://github.com/adharsh2608/Coding/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/adharsh2608/Coding/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/adharsh2608/Coding/tree/master/2383-add-two-integers) |
+| [2448-count-number-of-bad-pairs](https://github.com/adharsh2608/Coding/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/adharsh2608/Coding/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/adharsh2608/Coding/tree/master/2556-convert-the-temperature) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/adharsh2608/Coding/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1786-count-the-number-of-consistent-strings](https://github.com/adharsh2608/Coding/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/adharsh2608/Coding/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/adharsh2608/Coding/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/adharsh2608/Coding/tree/master/2448-count-number-of-bad-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/adharsh2608/Coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/adharsh2608/Coding/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/adharsh2608/Coding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -124,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1635-number-of-good-pairs](https://github.com/adharsh2608/Coding/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adharsh2608/Coding/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/adharsh2608/Coding/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/adharsh2608/Coding/tree/master/2448-count-number-of-bad-pairs) |
 ## Matrix
 |  |
 | ------- |
