@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/adharsh2608/Coding/tree/master/0268-missing-number) |
 | [0312-burst-balloons](https://github.com/adharsh2608/Coding/tree/master/0312-burst-balloons) |
 | [0455-assign-cookies](https://github.com/adharsh2608/Coding/tree/master/0455-assign-cookies) |
+| [0739-daily-temperatures](https://github.com/adharsh2608/Coding/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/adharsh2608/Coding/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/adharsh2608/Coding/tree/master/0907-koko-eating-bananas) |
 | [1256-rank-transform-of-an-array](https://github.com/adharsh2608/Coding/tree/master/1256-rank-transform-of-an-array) |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0143-reorder-list](https://github.com/adharsh2608/Coding/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adharsh2608/Coding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/adharsh2608/Coding/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/adharsh2608/Coding/tree/master/0739-daily-temperatures) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/adharsh2608/Coding/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/adharsh2608/Coding/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/adharsh2608/Coding/tree/master/3447-clear-digits) |
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adharsh2608/Coding/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/adharsh2608/Coding/tree/master/0739-daily-temperatures) |
 ## Database
 |  |
 | ------- |
