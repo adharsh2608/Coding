@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0907-koko-eating-bananas](https://github.com/adharsh2608/Coding/tree/master/0907-koko-eating-bananas) |
 | [1256-rank-transform-of-an-array](https://github.com/adharsh2608/Coding/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/adharsh2608/Coding/tree/master/1364-tuple-with-same-product) |
+| [1477-product-of-the-last-k-numbers](https://github.com/adharsh2608/Coding/tree/master/1477-product-of-the-last-k-numbers) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/adharsh2608/Coding/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/adharsh2608/Coding/tree/master/1635-number-of-good-pairs) |
 | [1694-make-sum-divisible-by-p](https://github.com/adharsh2608/Coding/tree/master/1694-make-sum-divisible-by-p) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/adharsh2608/Coding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/adharsh2608/Coding/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/adharsh2608/Coding/tree/master/0268-missing-number) |
+| [1477-product-of-the-last-k-numbers](https://github.com/adharsh2608/Coding/tree/master/1477-product-of-the-last-k-numbers) |
 | [1610-xor-operation-in-an-array](https://github.com/adharsh2608/Coding/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/adharsh2608/Coding/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/adharsh2608/Coding/tree/master/2383-add-two-integers) |
@@ -175,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/adharsh2608/Coding/tree/master/0238-product-of-array-except-self) |
+| [1477-product-of-the-last-k-numbers](https://github.com/adharsh2608/Coding/tree/master/1477-product-of-the-last-k-numbers) |
 | [1694-make-sum-divisible-by-p](https://github.com/adharsh2608/Coding/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/adharsh2608/Coding/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2714-left-and-right-sum-differences](https://github.com/adharsh2608/Coding/tree/master/2714-left-and-right-sum-differences) |
@@ -245,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0155-min-stack](https://github.com/adharsh2608/Coding/tree/master/0155-min-stack) |
 | [1023-time-based-key-value-store](https://github.com/adharsh2608/Coding/tree/master/1023-time-based-key-value-store) |
+| [1477-product-of-the-last-k-numbers](https://github.com/adharsh2608/Coding/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/adharsh2608/Coding/tree/master/2434-design-a-number-container-system) |
 ## Backtracking
 |  |
@@ -288,4 +292,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/adharsh2608/Coding/tree/master/2434-design-a-number-container-system) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/adharsh2608/Coding/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
