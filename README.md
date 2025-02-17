@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/adharsh2608/Coding/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/adharsh2608/Coding/tree/master/0782-jewels-and-stones) |
 | [1023-time-based-key-value-store](https://github.com/adharsh2608/Coding/tree/master/1023-time-based-key-value-store) |
+| [1160-letter-tile-possibilities](https://github.com/adharsh2608/Coding/tree/master/1160-letter-tile-possibilities) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adharsh2608/Coding/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/adharsh2608/Coding/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/adharsh2608/Coding/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/adharsh2608/Coding/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/adharsh2608/Coding/tree/master/0782-jewels-and-stones) |
 | [1023-time-based-key-value-store](https://github.com/adharsh2608/Coding/tree/master/1023-time-based-key-value-store) |
+| [1160-letter-tile-possibilities](https://github.com/adharsh2608/Coding/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/adharsh2608/Coding/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/adharsh2608/Coding/tree/master/1364-tuple-with-same-product) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/adharsh2608/Coding/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/adharsh2608/Coding/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/adharsh2608/Coding/tree/master/1364-tuple-with-same-product) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/adharsh2608/Coding/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/adharsh2608/Coding/tree/master/1635-number-of-good-pairs) |
@@ -256,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/adharsh2608/Coding/tree/master/0022-generate-parentheses) |
+| [1160-letter-tile-possibilities](https://github.com/adharsh2608/Coding/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/adharsh2608/Coding/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/adharsh2608/Coding/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Linked List
