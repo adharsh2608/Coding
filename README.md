@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/adharsh2608/Coding/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/adharsh2608/Coding/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/adharsh2608/Coding/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/adharsh2608/Coding/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/adharsh2608/Coding/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/adharsh2608/Coding/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/adharsh2608/Coding/tree/master/3194-find-words-containing-character) |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/adharsh2608/Coding/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/adharsh2608/Coding/tree/master/0739-daily-temperatures) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/adharsh2608/Coding/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/adharsh2608/Coding/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/adharsh2608/Coding/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/adharsh2608/Coding/tree/master/3447-clear-digits) |
 ## Binary Search
@@ -235,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/adharsh2608/Coding/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/adharsh2608/Coding/tree/master/0455-assign-cookies) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/adharsh2608/Coding/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -261,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/adharsh2608/Coding/tree/master/0022-generate-parentheses) |
 | [1160-letter-tile-possibilities](https://github.com/adharsh2608/Coding/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/adharsh2608/Coding/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/adharsh2608/Coding/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/adharsh2608/Coding/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Linked List
 |  |
