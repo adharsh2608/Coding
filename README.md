@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/adharsh2608/Coding/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/adharsh2608/Coding/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/adharsh2608/Coding/tree/master/0907-koko-eating-bananas) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/adharsh2608/Coding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1256-rank-transform-of-an-array](https://github.com/adharsh2608/Coding/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/adharsh2608/Coding/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/adharsh2608/Coding/tree/master/1477-product-of-the-last-k-numbers) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/adharsh2608/Coding/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/adharsh2608/Coding/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/adharsh2608/Coding/tree/master/0782-jewels-and-stones) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/adharsh2608/Coding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1023-time-based-key-value-store](https://github.com/adharsh2608/Coding/tree/master/1023-time-based-key-value-store) |
 | [1160-letter-tile-possibilities](https://github.com/adharsh2608/Coding/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/adharsh2608/Coding/tree/master/1256-rank-transform-of-an-array) |
@@ -287,10 +289,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adharsh2608/Coding/tree/master/0004-median-of-two-sorted-arrays) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/adharsh2608/Coding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Tree
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/adharsh2608/Coding/tree/master/0226-invert-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/adharsh2608/Coding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/adharsh2608/Coding/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/adharsh2608/Coding/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
@@ -308,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/adharsh2608/Coding/tree/master/0226-invert-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/adharsh2608/Coding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/adharsh2608/Coding/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/adharsh2608/Coding/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Heap (Priority Queue)
