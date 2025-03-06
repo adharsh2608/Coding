@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2714-left-and-right-sum-differences](https://github.com/adharsh2608/Coding/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/adharsh2608/Coding/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/adharsh2608/Coding/tree/master/3194-find-words-containing-character) |
+| [3227-find-missing-and-repeated-values](https://github.com/adharsh2608/Coding/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/adharsh2608/Coding/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/adharsh2608/Coding/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/adharsh2608/Coding/tree/master/3429-special-array-i) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/adharsh2608/Coding/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/adharsh2608/Coding/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/adharsh2608/Coding/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3227-find-missing-and-repeated-values](https://github.com/adharsh2608/Coding/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/adharsh2608/Coding/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/adharsh2608/Coding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/adharsh2608/Coding/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/adharsh2608/Coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/adharsh2608/Coding/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/adharsh2608/Coding/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/adharsh2608/Coding/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/adharsh2608/Coding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Counting
@@ -169,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/adharsh2608/Coding/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/adharsh2608/Coding/tree/master/0074-search-a-2d-matrix) |
 | [1791-richest-customer-wealth](https://github.com/adharsh2608/Coding/tree/master/1791-richest-customer-wealth) |
+| [3227-find-missing-and-repeated-values](https://github.com/adharsh2608/Coding/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
