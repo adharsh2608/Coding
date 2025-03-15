@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/adharsh2608/Coding/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/adharsh2608/Coding/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/adharsh2608/Coding/tree/master/3194-find-words-containing-character) |
+| [3412-permutation-difference-between-two-strings](https://github.com/adharsh2608/Coding/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/adharsh2608/Coding/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/adharsh2608/Coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/adharsh2608/Coding/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/adharsh2608/Coding/tree/master/3227-find-missing-and-repeated-values) |
+| [3412-permutation-difference-between-two-strings](https://github.com/adharsh2608/Coding/tree/master/3412-permutation-difference-between-two-strings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/adharsh2608/Coding/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/adharsh2608/Coding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Counting
