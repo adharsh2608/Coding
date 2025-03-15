@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0907-koko-eating-bananas](https://github.com/adharsh2608/Coding/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/adharsh2608/Coding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1256-rank-transform-of-an-array](https://github.com/adharsh2608/Coding/tree/master/1256-rank-transform-of-an-array) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/adharsh2608/Coding/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/adharsh2608/Coding/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/adharsh2608/Coding/tree/master/1477-product-of-the-last-k-numbers) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/adharsh2608/Coding/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0792-binary-search](https://github.com/adharsh2608/Coding/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/adharsh2608/Coding/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/adharsh2608/Coding/tree/master/1023-time-based-key-value-store) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/adharsh2608/Coding/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adharsh2608/Coding/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Union Find
 |  |
