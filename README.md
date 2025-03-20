@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2308-divide-array-into-equal-pairs](https://github.com/adharsh2608/Coding/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/adharsh2608/Coding/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/adharsh2608/Coding/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2478-longest-nice-subarray](https://github.com/adharsh2608/Coding/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/adharsh2608/Coding/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/adharsh2608/Coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adharsh2608/Coding/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1610-xor-operation-in-an-array](https://github.com/adharsh2608/Coding/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adharsh2608/Coding/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/adharsh2608/Coding/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/adharsh2608/Coding/tree/master/2478-longest-nice-subarray) |
 ## Number Theory
 |  |
 | ------- |
@@ -244,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/adharsh2608/Coding/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/adharsh2608/Coding/tree/master/0567-permutation-in-string) |
+| [2478-longest-nice-subarray](https://github.com/adharsh2608/Coding/tree/master/2478-longest-nice-subarray) |
 ## Stack
 |  |
 | ------- |
