@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2107-find-unique-binary-string](https://github.com/adharsh2608/Coding/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/adharsh2608/Coding/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/adharsh2608/Coding/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2262-solving-questions-with-brainpower](https://github.com/adharsh2608/Coding/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/adharsh2608/Coding/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/adharsh2608/Coding/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/adharsh2608/Coding/tree/master/2448-count-number-of-bad-pairs) |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/adharsh2608/Coding/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/adharsh2608/Coding/tree/master/1170-shortest-common-supersequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/adharsh2608/Coding/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2262-solving-questions-with-brainpower](https://github.com/adharsh2608/Coding/tree/master/2262-solving-questions-with-brainpower) |
 ## Sorting
 |  |
 | ------- |
