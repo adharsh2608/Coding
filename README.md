@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/adharsh2608/Coding/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/adharsh2608/Coding/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/adharsh2608/Coding/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/adharsh2608/Coding/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/adharsh2608/Coding/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/adharsh2608/Coding/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/adharsh2608/Coding/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
