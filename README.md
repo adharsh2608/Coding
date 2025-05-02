@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0057-insert-interval](https://github.com/adharsh2608/Coding/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/adharsh2608/Coding/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/adharsh2608/Coding/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/adharsh2608/Coding/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/adharsh2608/Coding/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adharsh2608/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/adharsh2608/Coding/tree/master/0128-longest-consecutive-sequence) |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/adharsh2608/Coding/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/adharsh2608/Coding/tree/master/0268-missing-number) |
 | [1610-xor-operation-in-an-array](https://github.com/adharsh2608/Coding/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adharsh2608/Coding/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -318,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/adharsh2608/Coding/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/adharsh2608/Coding/tree/master/0078-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/adharsh2608/Coding/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/adharsh2608/Coding/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/adharsh2608/Coding/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
