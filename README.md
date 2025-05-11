@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/adharsh2608/Coding/tree/master/0078-subsets) |
+| [1293-three-consecutive-odds](https://github.com/adharsh2608/Coding/tree/master/1293-three-consecutive-odds) |
 ## Backtracking
 |  |
 | ------- |
