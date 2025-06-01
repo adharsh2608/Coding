@@ -16,4 +16,16 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/adharsh2608/Coding/tree/master/0078-subsets) |
+## Math
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/adharsh2608/Coding/tree/master/3201-distribute-candies-among-children-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/adharsh2608/Coding/tree/master/3201-distribute-candies-among-children-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/adharsh2608/Coding/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
