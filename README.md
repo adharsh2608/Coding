@@ -7,6 +7,7 @@
 | [0039-combination-sum](https://github.com/adharsh2608/Coding/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/adharsh2608/Coding/tree/master/0078-subsets) |
 | [0135-candy](https://github.com/adharsh2608/Coding/tree/master/0135-candy) |
+| [0643-maximum-average-subarray-i](https://github.com/adharsh2608/Coding/tree/master/0643-maximum-average-subarray-i) |
 | [1293-three-consecutive-odds](https://github.com/adharsh2608/Coding/tree/master/1293-three-consecutive-odds) |
 ## Backtracking
 |  |
@@ -33,4 +34,8 @@
 |  |
 | ------- |
 | [0135-candy](https://github.com/adharsh2608/Coding/tree/master/0135-candy) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/adharsh2608/Coding/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
