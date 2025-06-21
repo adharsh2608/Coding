@@ -8,6 +8,7 @@
 | [0078-subsets](https://github.com/adharsh2608/Coding/tree/master/0078-subsets) |
 | [0135-candy](https://github.com/adharsh2608/Coding/tree/master/0135-candy) |
 | [0643-maximum-average-subarray-i](https://github.com/adharsh2608/Coding/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/adharsh2608/Coding/tree/master/0724-find-pivot-index) |
 | [1293-three-consecutive-odds](https://github.com/adharsh2608/Coding/tree/master/1293-three-consecutive-odds) |
 ## Backtracking
 |  |
@@ -38,4 +39,8 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/adharsh2608/Coding/tree/master/0643-maximum-average-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/adharsh2608/Coding/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
