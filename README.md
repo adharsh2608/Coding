@@ -43,4 +43,12 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/adharsh2608/Coding/tree/master/0724-find-pivot-index) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/adharsh2608/Coding/tree/master/0205-isomorphic-strings) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/adharsh2608/Coding/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
