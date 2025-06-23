@@ -9,6 +9,7 @@
 | [0135-candy](https://github.com/adharsh2608/Coding/tree/master/0135-candy) |
 | [0643-maximum-average-subarray-i](https://github.com/adharsh2608/Coding/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/adharsh2608/Coding/tree/master/0724-find-pivot-index) |
+| [0852-friends-of-appropriate-ages](https://github.com/adharsh2608/Coding/tree/master/0852-friends-of-appropriate-ages) |
 | [1293-three-consecutive-odds](https://github.com/adharsh2608/Coding/tree/master/1293-three-consecutive-odds) |
 ## Backtracking
 |  |
@@ -56,4 +57,16 @@
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/adharsh2608/Coding/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+## Two Pointers
+|  |
+| ------- |
+| [0852-friends-of-appropriate-ages](https://github.com/adharsh2608/Coding/tree/master/0852-friends-of-appropriate-ages) |
+## Binary Search
+|  |
+| ------- |
+| [0852-friends-of-appropriate-ages](https://github.com/adharsh2608/Coding/tree/master/0852-friends-of-appropriate-ages) |
+## Sorting
+|  |
+| ------- |
+| [0852-friends-of-appropriate-ages](https://github.com/adharsh2608/Coding/tree/master/0852-friends-of-appropriate-ages) |
 <!---LeetCode Topics End-->
