@@ -11,6 +11,7 @@
 | [0724-find-pivot-index](https://github.com/adharsh2608/Coding/tree/master/0724-find-pivot-index) |
 | [0852-friends-of-appropriate-ages](https://github.com/adharsh2608/Coding/tree/master/0852-friends-of-appropriate-ages) |
 | [1293-three-consecutive-odds](https://github.com/adharsh2608/Coding/tree/master/1293-three-consecutive-odds) |
+| [1677-matrix-diagonal-sum](https://github.com/adharsh2608/Coding/tree/master/1677-matrix-diagonal-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [0852-friends-of-appropriate-ages](https://github.com/adharsh2608/Coding/tree/master/0852-friends-of-appropriate-ages) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/adharsh2608/Coding/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
