@@ -51,4 +51,9 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/adharsh2608/Coding/tree/master/0205-isomorphic-strings) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/adharsh2608/Coding/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+## Simulation
+|  |
+| ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/adharsh2608/Coding/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 <!---LeetCode Topics End-->
