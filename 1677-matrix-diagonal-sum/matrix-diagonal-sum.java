@@ -5,11 +5,11 @@ class Solution {
         int bsum=0;
             for(int k=0;k<len;k++)
             {
-                sum+=mat[k][k];
-                bsum+=mat[k][len-k-1];
+                sum+=mat[k][k]+mat[k][len-k-1];
+                
             }           
         if(len%2!=0)
-        {bsum=bsum-mat[(len/2)][(len/2)];}
+        {sum-=mat[(len/2)][(len/2)];}
         return sum+bsum;
     }
 }
