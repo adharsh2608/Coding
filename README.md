@@ -12,6 +12,7 @@
 | [0852-friends-of-appropriate-ages](https://github.com/adharsh2608/Coding/tree/master/0852-friends-of-appropriate-ages) |
 | [1293-three-consecutive-odds](https://github.com/adharsh2608/Coding/tree/master/1293-three-consecutive-odds) |
 | [1677-matrix-diagonal-sum](https://github.com/adharsh2608/Coding/tree/master/1677-matrix-diagonal-sum) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/adharsh2608/Coding/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0852-friends-of-appropriate-ages](https://github.com/adharsh2608/Coding/tree/master/0852-friends-of-appropriate-ages) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/adharsh2608/Coding/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
