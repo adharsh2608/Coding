@@ -22,10 +22,12 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/adharsh2608/Coding/tree/master/0078-subsets) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/adharsh2608/Coding/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/adharsh2608/Coding/tree/master/3201-distribute-candies-among-children-ii) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/adharsh2608/Coding/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/adharsh2608/Coding/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/adharsh2608/Coding/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,4 +79,8 @@
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/adharsh2608/Coding/tree/master/1677-matrix-diagonal-sum) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/adharsh2608/Coding/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
