@@ -23,11 +23,13 @@
 | ------- |
 | [0078-subsets](https://github.com/adharsh2608/Coding/tree/master/0078-subsets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/adharsh2608/Coding/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/adharsh2608/Coding/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Math
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/adharsh2608/Coding/tree/master/3201-distribute-candies-among-children-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/adharsh2608/Coding/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/adharsh2608/Coding/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -83,4 +85,5 @@
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/adharsh2608/Coding/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/adharsh2608/Coding/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 <!---LeetCode Topics End-->
