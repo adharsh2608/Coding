@@ -11,6 +11,7 @@
 | [0724-find-pivot-index](https://github.com/adharsh2608/Coding/tree/master/0724-find-pivot-index) |
 | [0852-friends-of-appropriate-ages](https://github.com/adharsh2608/Coding/tree/master/0852-friends-of-appropriate-ages) |
 | [1293-three-consecutive-odds](https://github.com/adharsh2608/Coding/tree/master/1293-three-consecutive-odds) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/adharsh2608/Coding/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/adharsh2608/Coding/tree/master/1677-matrix-diagonal-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/adharsh2608/Coding/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Backtracking
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/adharsh2608/Coding/tree/master/0205-isomorphic-strings) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/adharsh2608/Coding/tree/master/1510-find-lucky-integer-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -86,4 +88,8 @@
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/adharsh2608/Coding/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/adharsh2608/Coding/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+## Counting
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/adharsh2608/Coding/tree/master/1510-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
