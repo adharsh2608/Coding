@@ -13,6 +13,7 @@
 | [1293-three-consecutive-odds](https://github.com/adharsh2608/Coding/tree/master/1293-three-consecutive-odds) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/adharsh2608/Coding/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/adharsh2608/Coding/tree/master/1677-matrix-diagonal-sum) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/adharsh2608/Coding/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/adharsh2608/Coding/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Backtracking
 |  |
@@ -56,6 +57,7 @@
 | ------- |
 | [0205-isomorphic-strings](https://github.com/adharsh2608/Coding/tree/master/0205-isomorphic-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/adharsh2608/Coding/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/adharsh2608/Coding/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## String
 |  |
 | ------- |
@@ -92,4 +94,8 @@
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/adharsh2608/Coding/tree/master/1510-find-lucky-integer-in-an-array) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/adharsh2608/Coding/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
