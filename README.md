@@ -11,6 +11,7 @@
 | [0724-find-pivot-index](https://github.com/adharsh2608/Coding/tree/master/0724-find-pivot-index) |
 | [0852-friends-of-appropriate-ages](https://github.com/adharsh2608/Coding/tree/master/0852-friends-of-appropriate-ages) |
 | [1293-three-consecutive-odds](https://github.com/adharsh2608/Coding/tree/master/1293-three-consecutive-odds) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/adharsh2608/Coding/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/adharsh2608/Coding/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/adharsh2608/Coding/tree/master/1677-matrix-diagonal-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/adharsh2608/Coding/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0135-candy](https://github.com/adharsh2608/Coding/tree/master/0135-candy) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/adharsh2608/Coding/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Sliding Window
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 |  |
 | ------- |
 | [0852-friends-of-appropriate-ages](https://github.com/adharsh2608/Coding/tree/master/0852-friends-of-appropriate-ages) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/adharsh2608/Coding/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Matrix
 |  |
 | ------- |
@@ -98,4 +101,8 @@
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/adharsh2608/Coding/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/adharsh2608/Coding/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 <!---LeetCode Topics End-->
