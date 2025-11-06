@@ -105,4 +105,8 @@
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/adharsh2608/Coding/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/adharsh2608/Coding/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
